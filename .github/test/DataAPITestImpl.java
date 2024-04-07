@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DataAPITestImp implements DataAPI {
+public class DataAPITestImpl implements DataAPI {
 
     //private List<Integer> userInputData = new ArrayList<>();;
 
